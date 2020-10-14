@@ -12,4 +12,4 @@ The (equivalent) formulation of the Riemann hypothesis stated in `riemann_hypoth
 
 We also give a file, `impl`, which is a witness that these properties can be proved within mathlib (including lemmata on real/complex log/exp functions which may be of independent interest in mathlib).
 
-We would like to take this opportunity to thank Alex Best, Kevin Buzzard, Colin Fan, Sebastien Gouezel, Heather Macbeth, and the Zulip Lean community for many suggestions that made this file possible. The work of the first-named author was supported by the Rutgers Math Department through the DIMACS REU, and the second-named author's NSF grant DMS-1802119.
+We would like to take this opportunity to thank Alex Best, Kevin Buzzard, Colin Fan, Sebastien Gouezel, Heather Macbeth, and the Zulip Lean community for many suggestions that made this file possible. The work of the first-named author was supported by the Rutgers Math Department through the DIMACS REU, and both are supported in part by the second-named author's NSF grant DMS-1802119.
