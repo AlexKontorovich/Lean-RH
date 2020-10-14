@@ -1,6 +1,7 @@
 # Riemann Hypothesis in Lean (with or without mathlib)
 
 By Brandon Gomes and Alex Kontorovich
+
 Department of Mathematics, Rutgers University
 
 This repository contains the formalization of the Riemann Hypothesis (in terms of the Dirichlet eta function) in the Lean Interactive Theorem Prover.
